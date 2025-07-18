@@ -2,7 +2,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 export const apiSlice = createApi({
   reducerPath: 'api',
-  baseQuery: fetchBaseQuery({ baseUrl: 'http://localhost:5174' }),
+  baseQuery: fetchBaseQuery({ baseUrl: 'https://crud-ovcw.onrender.com/' }),
   endpoints: builder => ({
     getItems: builder.query({
       query: () => '/items',

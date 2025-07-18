@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "name": "kiwi",
+      "description": "fruit",
+      "id": "aff1"
+    },
+    {
+      "name": "Brinjal",
+      "description": "Veggis",
+      "id": "9611"
+    },
+    {
+      "name": "Grapes",
+      "description": "Fruits",
+      "id": "37d8"
+    },
+    {
+      "name": "Litchee",
+      "description": "Fruits",
+      "id": "518e"
+    },
+    {
+      "name": "Watermelon",
+      "description": "Fruits",
+      "id": "b3e4"
+    },
+    {
+      "name": "Grapes",
+      "description": "Fruits",
+      "id": "3433"
+    },
+    {
+      "name": "Chillies",
+      "description": "Veggies",
+      "id": "2b93"
+    },
+    {
+      "name": "Garlic",
+      "description": "Veggies",
+      "id": "a12a"
+    },
+    {
+      "name": "Haldi",
+      "description": "Spices",
+      "id": "2522"
+    },
+    {
+      "name": "Garlic Powder",
+      "description": "Spices",
+      "id": "34c3"
+    },
+    {
+      "name": "Pineapple",
+      "description": "Fruits",
+      "id": "4fba"
+    },
+    {
+      "name": "Dragon Fruit",
+      "description": "Fruits",
+      "id": "40c3"
+    },
+    {
+      "name": "Oranges",
+      "description": "Fruits",
+      "id": "f776"
+    },
+    {
+      "name": "Lemon",
+      "description": "Fruits",
+      "id": "8b9c"
+    },
+    {
+      "id": "e6b1",
+      "name": "Apple",
+      "description": "Fruit"
+    },
+    {
+      "id": "c03e",
+      "name": "mango",
+      "description": "fruit"
+    },
+    {
+      "id": "8b3b",
+      "name": "Potato",
+      "description": "Veggis"
+    },
+    {
+      "id": "8cb5",
+      "name": "Spinach",
+      "description": "Veggies"
+    },
+    {
+      "id": "2a06",
+      "name": "Litchie",
+      "description": "Fruit"
+    }
+  ]
+}
